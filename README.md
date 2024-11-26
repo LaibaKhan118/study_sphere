@@ -8,3 +8,6 @@ This repository contains HTML and CSS codes for our semester project where we ha
 - Zunairah Aziz Sheikh [24K-0986]
 - Aamna Rizwan [24K-0695]
 - Abeeha Binte Aamir [24K-0940]
+
+### Presentation Link:
+https://www.canva.com/design/DAGXBcja37E/0lVSVqZvJmKwNf7uQiAeyQ/view?utm_content=DAGXBcja37E&utm_campaign=designshare&utm_medium=link&utm_source=editor
