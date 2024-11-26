@@ -1,7 +1,7 @@
 # Study Sphere
-## A little excursion into the world of we development
+## A little excursion into the world of web development
 
-This repository contains HTML and CSS codes for our semester project where we have created a functional and responsive educational blog website.
+This repository contains HTML and CSS codes for our semester project, in which we created a functional and responsive educational blog website.
 
 # Group Members 
 - Laiba Khan [24K-0644] (lead)
